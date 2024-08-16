@@ -4,7 +4,7 @@
 // @version      0.4
 // @description  Fast execution of reserving tickets in cart
 // @match        https://www1.ticketmaster.co.uk/*
-// @match        https://www1.ticketmaster.com/*
+// @match        https://ticketmaster.sg/*
 // @match        https://www.ticketmaster.sg/*
 // @require      https://code.jquery.com/jquery-2.1.3.min.js
 // @grant        none
